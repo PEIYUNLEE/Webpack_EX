@@ -108,6 +108,182 @@ eval("// removed by extract-text-webpack-plugin\n\n//# sourceURL=webpack:///./as
 
 /***/ }),
 
+/***/ "./assets/fonts/PT-Sans-Bold.eot":
+/*!***************************************!*\
+  !*** ./assets/fonts/PT-Sans-Bold.eot ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-Bold.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Bold.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Bold.svg":
+/*!***************************************!*\
+  !*** ./assets/fonts/PT-Sans-Bold.svg ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = \"data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJjc3MvZm9udHMvUFQtU2Fucy1Cb2xkLnN2ZyI7\"\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Bold.svg?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Bold.ttf":
+/*!***************************************!*\
+  !*** ./assets/fonts/PT-Sans-Bold.ttf ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-Bold.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Bold.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Bold.woff":
+/*!****************************************!*\
+  !*** ./assets/fonts/PT-Sans-Bold.woff ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-Bold.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Bold.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-BoldItalic.eot":
+/*!*********************************************!*\
+  !*** ./assets/fonts/PT-Sans-BoldItalic.eot ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-BoldItalic.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-BoldItalic.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-BoldItalic.svg":
+/*!*********************************************!*\
+  !*** ./assets/fonts/PT-Sans-BoldItalic.svg ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = \"data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJjc3MvZm9udHMvUFQtU2Fucy1Cb2xkSXRhbGljLnN2ZyI7\"\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-BoldItalic.svg?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-BoldItalic.ttf":
+/*!*********************************************!*\
+  !*** ./assets/fonts/PT-Sans-BoldItalic.ttf ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-BoldItalic.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-BoldItalic.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-BoldItalic.woff":
+/*!**********************************************!*\
+  !*** ./assets/fonts/PT-Sans-BoldItalic.woff ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-BoldItalic.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-BoldItalic.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Italic.eot":
+/*!*****************************************!*\
+  !*** ./assets/fonts/PT-Sans-Italic.eot ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-Italic.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Italic.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Italic.svg":
+/*!*****************************************!*\
+  !*** ./assets/fonts/PT-Sans-Italic.svg ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = \"data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJjc3MvZm9udHMvUFQtU2Fucy1JdGFsaWMuc3ZnIjs=\"\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Italic.svg?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Italic.ttf":
+/*!*****************************************!*\
+  !*** ./assets/fonts/PT-Sans-Italic.ttf ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-Italic.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Italic.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans-Italic.woff":
+/*!******************************************!*\
+  !*** ./assets/fonts/PT-Sans-Italic.woff ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans-Italic.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans-Italic.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans.eot":
+/*!**********************************!*\
+  !*** ./assets/fonts/PT-Sans.eot ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans.svg":
+/*!**********************************!*\
+  !*** ./assets/fonts/PT-Sans.svg ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = \"data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJjc3MvZm9udHMvUFQtU2Fucy5zdmciOw==\"\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans.svg?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans.ttf":
+/*!**********************************!*\
+  !*** ./assets/fonts/PT-Sans.ttf ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/PT-Sans.woff":
+/*!***********************************!*\
+  !*** ./assets/fonts/PT-Sans.woff ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"css/fonts/PT-Sans.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/PT-Sans.woff?");
+
+/***/ }),
+
 /***/ "./assets/images/bird.jpg":
 /*!********************************!*\
   !*** ./assets/images/bird.jpg ***!
@@ -138,7 +314,7 @@ eval("module.exports = \"./images/368d4517dbe9eaf22afed45d037f3f01.jpg\";\n\n//#
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../images/bird.jpg */ \"./assets/images/bird.jpg\");\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/squirrel.jpg */ \"./assets/images/squirrel.jpg\");\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../css/style.css */ \"./assets/css/style.css\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_css_style_css__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _css_normalize_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../css/normalize.css */ \"./assets/css/normalize.css\");\n/* harmony import */ var _css_normalize_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_css_normalize_css__WEBPACK_IMPORTED_MODULE_3__);\nvar $ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n\n\n // // Import Fonts\n// import \"../fonts/PT-Sans.eot\";\n// import \"../fonts/PT-Sans-Bold.eot\";\n// import \"../fonts/PT-Sans-Italic.eot\";\n// import \"../fonts/PT-Sans-BoldItalic.eot\";\n// import \"../fonts/PT-Sans.woff\";\n// import \"../fonts/PT-Sans-Bold.woff\";\n// import \"../fonts/PT-Sans-Italic.woff\";\n// import \"../fonts/PT-Sans-BoldItalic.woff\";\n// import \"../fonts/PT-Sans.ttf\";\n// import \"../fonts/PT-Sans-Bold.ttf\";\n// import \"../fonts/PT-Sans-Italic.ttf\";\n// import \"../fonts/PT-Sans-BoldItalic.ttf\";\n// import \"../fonts/PT-Sans.svg\";\n// import \"../fonts/PT-Sans-Bold.svg\";\n// import \"../fonts/PT-Sans-Italic.svg\";\n// import \"../fonts/PT-Sans-BoldItalic.svg\";\n\n\n\n$('#image_bird').attr(\"src\", _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default.a);\n$('#image_squirrel').attr(\"src\", _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default.a);\n$(document).ready(function () {\n  // when a hanburger menu is clicked\n  var $ul = $(\".nav__list\"),\n      $menu = $(\".nav__menu\");\n  $($menu).click(function () {\n    // toggle menu-click Class\n    $ul.toggleClass(\"menu-click\");\n  }); // end click event handler\n});\n\n//# sourceURL=webpack:///./assets/js/script.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../images/bird.jpg */ \"./assets/images/bird.jpg\");\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/squirrel.jpg */ \"./assets/images/squirrel.jpg\");\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _fonts_PT_Sans_eot__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../fonts/PT-Sans.eot */ \"./assets/fonts/PT-Sans.eot\");\n/* harmony import */ var _fonts_PT_Sans_eot__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_eot__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _fonts_PT_Sans_Bold_eot__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../fonts/PT-Sans-Bold.eot */ \"./assets/fonts/PT-Sans-Bold.eot\");\n/* harmony import */ var _fonts_PT_Sans_Bold_eot__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Bold_eot__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _fonts_PT_Sans_Italic_eot__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../fonts/PT-Sans-Italic.eot */ \"./assets/fonts/PT-Sans-Italic.eot\");\n/* harmony import */ var _fonts_PT_Sans_Italic_eot__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Italic_eot__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_eot__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../fonts/PT-Sans-BoldItalic.eot */ \"./assets/fonts/PT-Sans-BoldItalic.eot\");\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_eot__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_BoldItalic_eot__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _fonts_PT_Sans_woff__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../fonts/PT-Sans.woff */ \"./assets/fonts/PT-Sans.woff\");\n/* harmony import */ var _fonts_PT_Sans_woff__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_woff__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _fonts_PT_Sans_Bold_woff__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../fonts/PT-Sans-Bold.woff */ \"./assets/fonts/PT-Sans-Bold.woff\");\n/* harmony import */ var _fonts_PT_Sans_Bold_woff__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Bold_woff__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _fonts_PT_Sans_Italic_woff__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../fonts/PT-Sans-Italic.woff */ \"./assets/fonts/PT-Sans-Italic.woff\");\n/* harmony import */ var _fonts_PT_Sans_Italic_woff__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Italic_woff__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_woff__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../fonts/PT-Sans-BoldItalic.woff */ \"./assets/fonts/PT-Sans-BoldItalic.woff\");\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_woff__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_BoldItalic_woff__WEBPACK_IMPORTED_MODULE_9__);\n/* harmony import */ var _fonts_PT_Sans_ttf__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../fonts/PT-Sans.ttf */ \"./assets/fonts/PT-Sans.ttf\");\n/* harmony import */ var _fonts_PT_Sans_ttf__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_ttf__WEBPACK_IMPORTED_MODULE_10__);\n/* harmony import */ var _fonts_PT_Sans_Bold_ttf__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../fonts/PT-Sans-Bold.ttf */ \"./assets/fonts/PT-Sans-Bold.ttf\");\n/* harmony import */ var _fonts_PT_Sans_Bold_ttf__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Bold_ttf__WEBPACK_IMPORTED_MODULE_11__);\n/* harmony import */ var _fonts_PT_Sans_Italic_ttf__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../fonts/PT-Sans-Italic.ttf */ \"./assets/fonts/PT-Sans-Italic.ttf\");\n/* harmony import */ var _fonts_PT_Sans_Italic_ttf__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Italic_ttf__WEBPACK_IMPORTED_MODULE_12__);\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_ttf__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../fonts/PT-Sans-BoldItalic.ttf */ \"./assets/fonts/PT-Sans-BoldItalic.ttf\");\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_ttf__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_BoldItalic_ttf__WEBPACK_IMPORTED_MODULE_13__);\n/* harmony import */ var _fonts_PT_Sans_svg__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../fonts/PT-Sans.svg */ \"./assets/fonts/PT-Sans.svg\");\n/* harmony import */ var _fonts_PT_Sans_svg__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_svg__WEBPACK_IMPORTED_MODULE_14__);\n/* harmony import */ var _fonts_PT_Sans_Bold_svg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../fonts/PT-Sans-Bold.svg */ \"./assets/fonts/PT-Sans-Bold.svg\");\n/* harmony import */ var _fonts_PT_Sans_Bold_svg__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Bold_svg__WEBPACK_IMPORTED_MODULE_15__);\n/* harmony import */ var _fonts_PT_Sans_Italic_svg__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../fonts/PT-Sans-Italic.svg */ \"./assets/fonts/PT-Sans-Italic.svg\");\n/* harmony import */ var _fonts_PT_Sans_Italic_svg__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_Italic_svg__WEBPACK_IMPORTED_MODULE_16__);\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_svg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../fonts/PT-Sans-BoldItalic.svg */ \"./assets/fonts/PT-Sans-BoldItalic.svg\");\n/* harmony import */ var _fonts_PT_Sans_BoldItalic_svg__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(_fonts_PT_Sans_BoldItalic_svg__WEBPACK_IMPORTED_MODULE_17__);\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../css/style.css */ \"./assets/css/style.css\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_18___default = /*#__PURE__*/__webpack_require__.n(_css_style_css__WEBPACK_IMPORTED_MODULE_18__);\n/* harmony import */ var _css_normalize_css__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../css/normalize.css */ \"./assets/css/normalize.css\");\n/* harmony import */ var _css_normalize_css__WEBPACK_IMPORTED_MODULE_19___default = /*#__PURE__*/__webpack_require__.n(_css_normalize_css__WEBPACK_IMPORTED_MODULE_19__);\nvar $ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n\n\n // Import Fonts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n$('#image_bird').attr(\"src\", _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default.a);\n$('#image_squirrel').attr(\"src\", _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default.a);\n$(document).ready(function () {\n  // when a hanburger menu is clicked\n  var $ul = $(\".nav__list\"),\n      $menu = $(\".nav__menu\");\n  $($menu).click(function () {\n    // toggle menu-click Class\n    $ul.toggleClass(\"menu-click\");\n  }); // end click event handler\n});\n\n//# sourceURL=webpack:///./assets/js/script.js?");
 
 /***/ }),
 
