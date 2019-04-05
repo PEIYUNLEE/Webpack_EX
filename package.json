@@ -4,7 +4,10 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development",
+    "build": "webpack --mode production",
+    "watch": "webpack --watch --mode development"
   },
   "repository": {
     "type": "git",
@@ -17,7 +20,9 @@
   },
   "homepage": "https://github.com/PEIYUNLEE/Webpack_Ex#readme",
   "dependencies": {
+    "image-webpack-loader": "^4.6.0",
     "jquery": "^3.3.1",
+    "url-loader": "^1.1.2",
     "webpack": "^4.29.6"
   }
 }
