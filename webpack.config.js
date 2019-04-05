@@ -26,7 +26,8 @@ module.exports = {
                   loader: 'url-loader',
                   options: {
                      limit: 40000,
-                     outputPath: './images'
+                     outputPath: './images',
+                     publicPath: '../dist/images'
                   }
                },
                'image-webpack-loader'
