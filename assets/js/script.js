@@ -1,6 +1,8 @@
 let $ = require('jquery');
 import bird from '../images/bird.jpg';
 import squirrel from '../images/squirrel.jpg'
+import '../css/style.css';
+import '../css/normalize.css';
 
 $('#image_bird').attr("src", bird);
 $('#image_squirrel').attr("src", squirrel);
