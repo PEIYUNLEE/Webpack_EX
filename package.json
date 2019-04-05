@@ -4,7 +4,10 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development",
+    "build": "webpack --mode production",
+    "watch": "webpack --watch --mode development"
   },
   "repository": {
     "type": "git",
@@ -17,7 +20,14 @@
   },
   "homepage": "https://github.com/PEIYUNLEE/Webpack_Ex#readme",
   "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "file-loader": "^3.0.1",
+    "image-webpack-loader": "^4.6.0",
     "jquery": "^3.3.1",
-    "webpack": "^4.29.6"
+    "url-loader": "^1.1.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
   }
 }
