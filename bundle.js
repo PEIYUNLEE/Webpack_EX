@@ -130,6 +130,28 @@ function(e){var t,n,r,i,o,a,s,u,l,c,f,p,d,h,g,v,y,m,x,b="sizzle"+1*new Date,w=e.
 /************************************************************************/
 /******/ ({
 
+/***/ "./assets/css/normalize.css":
+/*!**********************************!*\
+  !*** ./assets/css/normalize.css ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// removed by extract-text-webpack-plugin\n\n//# sourceURL=webpack:///./assets/css/normalize.css?");
+
+/***/ }),
+
+/***/ "./assets/css/style.css":
+/*!******************************!*\
+  !*** ./assets/css/style.css ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// removed by extract-text-webpack-plugin\n\n//# sourceURL=webpack:///./assets/css/style.css?");
+
+/***/ }),
+
 /***/ "./assets/images/bird.jpg":
 /*!********************************!*\
   !*** ./assets/images/bird.jpg ***!
@@ -160,7 +182,7 @@ eval("module.exports = \"../dist/images/368d4517dbe9eaf22afed45d037f3f01.jpg\";\
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../images/bird.jpg */ \"./assets/images/bird.jpg\");\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/squirrel.jpg */ \"./assets/images/squirrel.jpg\");\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__);\nvar $ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n\n\n\n$('#image_bird').attr(\"src\", _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default.a);\n$('#image_squirrel').attr(\"src\", _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default.a);\n$(document).ready(function () {\n  // when a hanburger menu is clicked\n  var $ul = $(\".nav__list\"),\n      $menu = $(\".nav__menu\");\n  $($menu).click(function () {\n    // toggle menu-click Class\n    $ul.toggleClass(\"menu-click\");\n  }); // end click event handler\n});\n\n//# sourceURL=webpack:///./assets/js/script.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../images/bird.jpg */ \"./assets/images/bird.jpg\");\n/* harmony import */ var _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_images_bird_jpg__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/squirrel.jpg */ \"./assets/images/squirrel.jpg\");\n/* harmony import */ var _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../css/style.css */ \"./assets/css/style.css\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_css_style_css__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _css_normalize_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../css/normalize.css */ \"./assets/css/normalize.css\");\n/* harmony import */ var _css_normalize_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_css_normalize_css__WEBPACK_IMPORTED_MODULE_3__);\nvar $ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n\n\n // // Import Fonts\n// import \"../fonts/PT-Sans.eot\";\n// import \"../fonts/PT-Sans-Bold.eot\";\n// import \"../fonts/PT-Sans-Italic.eot\";\n// import \"../fonts/PT-Sans-BoldItalic.eot\";\n// import \"../fonts/PT-Sans.woff\";\n// import \"../fonts/PT-Sans-Bold.woff\";\n// import \"../fonts/PT-Sans-Italic.woff\";\n// import \"../fonts/PT-Sans-BoldItalic.woff\";\n// import \"../fonts/PT-Sans.ttf\";\n// import \"../fonts/PT-Sans-Bold.ttf\";\n// import \"../fonts/PT-Sans-Italic.ttf\";\n// import \"../fonts/PT-Sans-BoldItalic.ttf\";\n// import \"../fonts/PT-Sans.svg\";\n// import \"../fonts/PT-Sans-Bold.svg\";\n// import \"../fonts/PT-Sans-Italic.svg\";\n// import \"../fonts/PT-Sans-BoldItalic.svg\";\n\n\n\n$('#image_bird').attr(\"src\", _images_bird_jpg__WEBPACK_IMPORTED_MODULE_0___default.a);\n$('#image_squirrel').attr(\"src\", _images_squirrel_jpg__WEBPACK_IMPORTED_MODULE_1___default.a);\n$(document).ready(function () {\n  // when a hanburger menu is clicked\n  var $ul = $(\".nav__list\"),\n      $menu = $(\".nav__menu\");\n  $($menu).click(function () {\n    // toggle menu-click Class\n    $ul.toggleClass(\"menu-click\");\n  }); // end click event handler\n});\n\n//# sourceURL=webpack:///./assets/js/script.js?");
 
 /***/ }),
 
