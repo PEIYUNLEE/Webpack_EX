@@ -29,7 +29,7 @@ module.exports = {
                   options: {
                      limit: 40000,
                      outputPath: './images',
-                     publicPath: '../dist/images'
+                     publicPath: './images'
                   }
                },
                'image-webpack-loader'
