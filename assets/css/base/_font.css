@@ -1,4 +1,4 @@
-/* Custom Fonts
+/* Custom Fonts */
 @font-face {
 	font-family: 'PTSans';
 	src: 	url('fonts/PT-Sans.eot');
@@ -41,4 +41,4 @@
          url('fonts/PT-Sans-BoldItalic.svg#pt_sansbold_italic') format('svg');
 	font-weight: bold;
 	font-style: italic;
-} */
+}
