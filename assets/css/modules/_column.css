@@ -1,0 +1,89 @@
+/* Main Column Typography */
+
+.section {
+	padding: 0;
+}
+
+
+@mixin atMedium767 {
+
+	.section {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	overflow: hidden;
+}
+
+.container--fluid {
+	max-width: 100%;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+
+@mixin atMedium767{
+
+	.show-large {
+		display: block;
+	}
+
+	.container--fluid {
+		max-width: 960px;
+		margin: 0 auto;
+		padding: 0 20px;
+	}
+
+}
+
+@mixin atLarge1023{
+
+	.container {
+		max-width: 1000px;
+	}
+
+	.container--fluid {
+		max-width: 1000px;
+	}
+
+	body {
+		font-size: 16px;
+	}
+}
+
+@mixin atLarge1280{
+
+
+
+	.container {
+		max-width: 1200px;
+	}
+	
+	.container--fluid {
+		max-width: 1200px;
+	}
+}
+
+.header {
+	padding-top: 20px;
+	color: #FFF;
+	background-color: #405c71;
+	position: relative;
+}
+
+.header__title {
+	margin: 0;
+	font-weight: normal;
+	font-size: 165%;
+}
+
+.header__slogan {
+	font-size: 90%;
+}
