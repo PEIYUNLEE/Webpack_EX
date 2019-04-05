@@ -1,9 +1,6 @@
-<<<<<<< HEAD:assets/js/script.js
-import $ from 'jquery';
 
-=======
 let $ = require('jquery');
->>>>>>> 110619041:assets/js/script.js
+
 $(document).ready(function () {
 	// when a hanburger menu is clicked
 	let $ul = $(".nav__list"),
