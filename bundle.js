@@ -104,7 +104,7 @@ eval("module.exports = \"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QAY
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/url-loader/dist/cjs.js):\\nError: Cannot find module 'file-loader'\\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:603:15)\\n    at Function.Module._load (internal/modules/cjs/loader.js:529:25)\\n    at Module.require (internal/modules/cjs/loader.js:657:17)\\n    at require (D:\\\\Users\\\\Course\\\\JSF2E\\\\Homework\\\\Webpack_Ex\\\\node_modules\\\\v8-compile-cache\\\\v8-compile-cache.js:159:20)\\n    at Object.loader (D:\\\\Users\\\\Course\\\\JSF2E\\\\Homework\\\\Webpack_EX\\\\node_modules\\\\url-loader\\\\dist\\\\index.js:68:20)\");\n\n//# sourceURL=webpack:///./assets/images/squirrel.jpg?");
+eval("module.exports = \"../dist/images/368d4517dbe9eaf22afed45d037f3f01.jpg\";\n\n//# sourceURL=webpack:///./assets/images/squirrel.jpg?");
 
 /***/ }),
 
