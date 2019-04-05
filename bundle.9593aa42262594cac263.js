@@ -126,7 +126,7 @@ eval("module.exports = \"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QAY
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"../dist/images/368d4517dbe9eaf22afed45d037f3f01.jpg\";\n\n//# sourceURL=webpack:///./assets/images/squirrel.jpg?");
+eval("module.exports = \"./images/368d4517dbe9eaf22afed45d037f3f01.jpg\";\n\n//# sourceURL=webpack:///./assets/images/squirrel.jpg?");
 
 /***/ }),
 
